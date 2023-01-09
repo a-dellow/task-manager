@@ -1,0 +1,5 @@
+admin, adm1n
+aaron, aar0n
+tom, t0m
+djamel, dj4mel
+jerome, j3r0me
